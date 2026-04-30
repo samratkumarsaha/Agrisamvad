@@ -1,0 +1,13 @@
+{
+  "name": "AgriSamvad Pro",
+  "short_name": "AgriSamvad",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#2e7d32",
+  "icons": [{
+    "src": "https://cdn-icons-png.flaticon.com/512/628/628283.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
